@@ -1,175 +1,193 @@
-<!-- Header -->
 <div align="center">
-  
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Calvino%20Pro&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Entrepreneur%20%7C%20Building%20for%20Africa&descAlignY=55&descSize=18)](https://github.com/DOUMBAJC)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2D9EF7&center=true&vCenter=true&width=600&lines=Laravel+%7C+React+%7C+Next.js+%7C+React+Native;Turning+ideas+into+scalable+platforms;Connecting+Africa+to+global+opportunities)](https://git.io/typing-svg)
+<!-- ANIMATED HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=CALVINO%20PRO&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=🚀%20Full-Stack%20Developer%20•%20Tech%20Entrepreneur%20•%20Africa%20Innovator&descAlignY=55&descSize=18&descColor=fff"/>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeancalvaindoumba07@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DOUMBAJC)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-calvain-doumba)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](http://calvinopro.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/calvino_pro)
+<!-- SOCIAL BADGES -->
+<a href="mailto:jeancalvaindoumba07@gmail.com"><img src="https://img.shields.io/badge/-Email_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/jean-calvain-doumba"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://t.me/calvino_pro"><img src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" /></a>
+<a href="http://calvinopro.com"><img src="https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=DOUMBAJC&color=blueviolet&style=flat-square&label=Visitors" />
+
+<br/><br/>
+
+<!-- TYPING EFFECT -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%92%A1+I+build+platforms+that+empower+Africa;%F0%9F%94%A5+Laravel+%7C+React+%7C+Next.js+%7C+NestJS+%7C+React+Native" alt="Typing SVG" /></a>
 
 </div>
 
 ---
 
-## 👋 À propos de moi
+<img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif"/>
 
-```javascript
-const calvinoPro = {
-    name: "Jean Calvain DOUMBA",
-    role: "Full-Stack Developer & Entrepreneur",
-    location: "Cameroun 🇨🇲",
-    focus: "Building tech platforms for African markets",
-    stack: {
-        frontend:  ["React 19", "Next.js 15", "Vue.js", "React Native/Expo", "Tailwind CSS"],
-        backend:   ["Laravel 12", "PHP 8.4", "Node.js", "Express.js"],
-        databases: ["PostgreSQL 18 + PostGIS", "MySQL", "Redis", "MongoDB"],
-        cloud:     ["AWS", "Vercel"],
-        tools:     ["Git", "VS Code", "Insomnia", "Figma"]
-    },
-    currentlyLearning: ["AI/ML", "Predictive Analytics", "DevOps", "Cloud Architecture"],
-    motto: "Code with purpose. Build for impact. 👌"
-};
-```
+### 🧑‍💻 Qui suis-je ?
+
+Je suis **Jean Calvain DOUMBA** aka **Calvino Pro**, développeur full-stack et entrepreneur tech basé au **Cameroun** 🇨🇲.
+
+Je conçois et développe des **plateformes digitales à fort impact** pour les marchés africains — de l'immobilier au commerce B2B international.
+
+- 🏗️ Je construis **DaDa** (immobilier) et **Afri Asia Connect** (B2B Afrique–Chine)
+- 🤖 J'explore l'**AI/ML** pour créer des produits SaaS intelligents
+- 🌍 Ma vision : des solutions tech **made in Africa, for Africa**
+- 🤝 Ouvert aux **collaborations** et **partenariats stratégiques**
+- ✍️ Signature : `Calvino Pro 👌`
+
+<br clear="both"/>
 
 ---
 
-## 🚀 Projets Phares
+## ⚡ Tech Arsenal
 
+<div align="center">
+
+| | Technologies |
+|:---:|:---|
+| **Frontend** | ![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js_15-000?style=flat-square&logo=nextdotjs&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Backend** | ![Laravel](https://img.shields.io/badge/Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP_8.4-777BB4?style=flat-square&logo=php&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white) |
+| **Data** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL_18-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![PostGIS](https://img.shields.io/badge/PostGIS-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| **Design & Tools** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
+
+</div>
+
+---
+
+## 🏆 Projets Phares
+
+<div align="center">
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏠 DaDa — Location Immobilière
-**Plateforme de location immobilière au Cameroun** avec système de crédits prépayés (MTN MoMo / Orange Money), onboarding agences et gestion propriétaires.
+<h3 align="center">🏠 DaDa</h3>
+<p align="center"><strong>Plateforme de Location Immobilière</strong></p>
+<p align="center">
+<img src="https://img.shields.io/badge/Status-En_développement-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/Market-Cameroun-green?style=flat-square"/>
+</p>
 
-**Stack :** `Laravel 12` `React 19` `Next.js 15` `PostgreSQL + PostGIS` `Redis` `React Native/Expo` `AWS`
+Plateforme immobilière révolutionnaire avec **crédits prépayés** via MTN MoMo / Orange Money, onboarding agences et géolocalisation avancée.
 
-**Villes cibles :** Douala · Yaoundé · Garoua · Ngaoundéré
+`Laravel 12` `React 19` `Next.js 15` `NestJS` `PostgreSQL + PostGIS` `Redis` `React Native/Expo` `AWS`
 
-[![Voir le projet](https://img.shields.io/badge/🔗_En_développement-181717?style=for-the-badge)](https://github.com/DOUMBAJC)
+**🎯 Villes :** Douala · Yaoundé · Garoua · Ngaoundéré
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌍 Afri Asia Connect Business
-**Plateforme B2B** connectant investisseurs africains et fabricants chinois à prix d'usine. 4 tiers d'abonnement, UI premium dark/light mode.
+<h3 align="center">🌍 Afri Asia Connect Business</h3>
+<p align="center"><strong>Plateforme B2B Afrique — Chine</strong></p>
+<p align="center">
+<img src="https://img.shields.io/badge/Status-En_développement-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/Market-Pan--Africain-green?style=flat-square"/>
+</p>
 
-**Stack :** `Laravel` `React` `PostgreSQL` `Tailwind CSS`
+Connecte **investisseurs africains** et **fabricants chinois** à prix d'usine. 4 tiers d'abonnement, schéma 22 tables, UI premium dark/light.
 
-**Expansion :** 🇳🇬 🇨🇮 🇸🇳 🇨🇩 🇬🇭
+`Laravel` `React` `NestJS` `PostgreSQL` `Tailwind CSS`
 
-[![Voir le projet](https://img.shields.io/badge/🔗_En_développement-181717?style=for-the-badge)](https://github.com/DOUMBAJC)
+**🎯 Expansion :** 🇳🇬 Nigeria · 🇨🇮 Côte d'Ivoire · 🇸🇳 Sénégal · 🇨🇩 RDC · 🇬🇭 Ghana
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎓 UniDocs
-**Plateforme d'archivage documentaire universitaire** pour le système académique LMD camerounais. UI desktop & mobile, schéma PostgreSQL complet.
+<h3 align="center">🎓 UniDocs</h3>
+<p align="center"><strong>Archivage Documentaire Universitaire</strong></p>
+<p align="center">
+<img src="https://img.shields.io/badge/Status-En_développement-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/Sector-EdTech-blue?style=flat-square"/>
+</p>
 
-**Stack :** `Laravel` `React` `PostgreSQL` `Tailwind CSS`
+Plateforme d'archivage pour le **système LMD camerounais**. 11 entités PostgreSQL, mockups desktop & mobile (9 écrans chacun).
 
-[![Voir le projet](https://img.shields.io/badge/🔗_En_développement-181717?style=for-the-badge)](https://github.com/DOUMBAJC)
+`Laravel` `React` `PostgreSQL` `Tailwind CSS`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏨 Divina Hotel
-**Application de gestion hôtelière** complète : réservations, chambres, clients, commandes.
+<h3 align="center">🏨 Divina Hotel</h3>
+<p align="center"><strong>Gestion Hôtelière Complète</strong></p>
+<p align="center">
+<a href="https://github.com/DOUMBAJC/divina-hotel"><img src="https://img.shields.io/badge/Status-Disponible-brightgreen?style=flat-square"/></a>
+<img src="https://img.shields.io/badge/Sector-Hospitality-blue?style=flat-square"/>
+</p>
 
-**Stack :** `Laravel` `Vue.js` `MySQL`
+Système complet de gestion hôtelière : réservations, chambres, clients et commandes.
 
-[![Voir le projet](https://img.shields.io/badge/🔗_Voir_sur_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/DOUMBAJC/divina-hotel)
+`Laravel` `Vue.js` `MySQL`
+
+<p align="center"><a href="https://github.com/DOUMBAJC/divina-hotel"><img src="https://img.shields.io/badge/→_Code_Source-181717?style=flat-square&logo=github"/></a></p>
 
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
-## 🛠 Stack Technique
+## 📊 GitHub Analytics
 
 <div align="center">
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DOUMBAJC&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=FFFFFF&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DOUMBAJC&theme=radical&hide_border=true&background=0D1117&stroke=A960FF&ring=A960FF&fire=FF6B6B&currStreakLabel=A960FF" />
 
-### Backend
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP_8.4-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DOUMBAJC&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A960FF&text_color=FFFFFF" />
 
-### Bases de données & Infrastructure
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![PostGIS](https://img.shields.io/badge/PostGIS-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+<!-- CONTRIBUTION GRAPH -->
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=DOUMBAJC&bg_color=0D1117&color=A960FF&line=A960FF&point=FFFFFF&area=true&area_color=A960FF&hide_border=true" />
 
-### Outils
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)
+<!-- TROPHIES -->
+<img width="98%" src="https://github-profile-trophy.vercel.app/?username=DOUMBAJC&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" />
 
 </div>
 
 ---
 
-## 📊 Statistiques GitHub
+## 🗺️ Roadmap 2025–2026
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DOUMBAJC&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DOUMBAJC&theme=tokyonight&hide_border=true&background=0D1117" />
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DOUMBAJC&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-</div>
-
----
-
-## 🎯 En ce moment
-
-- 🔨 **Building** — DaDa & Afri Asia Connect Business
-- 🤖 **Learning** — AI/ML, Predictive Analytics, Recommendation Systems
-- 🌍 **Vision** — Créer des plateformes SaaS à impact pour les marchés africains
-- 🤝 **Open to** — Collaborations, partenariats, opportunités tech
+```mermaid
+graph LR
+    A[🚀 Lancement DaDa<br/>Douala & Yaoundé] --> B[🌍 Expansion<br/>Afri Asia Connect]
+    B --> C[🤖 SaaS AI-Powered<br/>Analytics & Recommandations]
+    C --> D[📈 Scale Pan-Africain<br/>Nigeria · Sénégal · RDC]
+    
+    style A fill:#A960FF,stroke:#fff,color:#fff
+    style B fill:#7C3AED,stroke:#fff,color:#fff
+    style C fill:#5B21B6,stroke:#fff,color:#fff
+    style D fill:#4C1D95,stroke:#fff,color:#fff
+```
 
 ---
 
-## 📬 Me contacter
+## 💬 Parlons business
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-jeancalvaindoumba07@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeancalvaindoumba07@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-@calvino__pro-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/calvino_pro)
-[![Portfolio](https://img.shields.io/badge/Web-calvinopro.com-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](http://calvinopro.com)
+> *"La technologie est l'outil. L'Afrique est l'opportunité. L'impact est la mission."*
+
+<br/>
+
+<a href="mailto:jeancalvaindoumba07@gmail.com"><img src="https://img.shields.io/badge/📧_Me_contacter_par_email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://t.me/calvino_pro"><img src="https://img.shields.io/badge/💬_Discuter_sur_Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="http://calvinopro.com"><img src="https://img.shields.io/badge/🌐_Voir_mon_portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+
+<br/><br/>
+
+**`Calvino Pro 👌`**
+
+<br/>
+
+<!-- SNAKE ANIMATION -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=DOUMBAJC&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
-
-*Calvino Pro 👌*
-
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer)](https://github.com/DOUMBAJC)
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer"/>
