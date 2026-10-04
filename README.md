@@ -6,7 +6,7 @@ I build systems where money moves through Mobile Money: asynchronous payments, e
 
 ---
 
-### DaDa — rent held in escrow
+### DaDa - rent held in escrow
 
 In Cameroon, tenants often pay several months of rent upfront, to a broker or a landlord, with no recourse if the place isn't what was promised. DaDa holds that payment in escrow: after paying, the tenant has 72 hours to check the property before the money is released. DaDa is built for real-estate agents first: their commission is taken at the source, out of escrow.
 
