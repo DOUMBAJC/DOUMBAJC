@@ -30,11 +30,9 @@ Mobile Money payment
 **Quality** — 2,500+ Pest tests, CI on all three repos, built for Cameroon's 2024/017 personal data law  
 **Status** — pre-launch. The code is private; happy to walk you through the architecture on a call.
 
-<!-- Uncomment once calvino-framework has a real README, tests and CI:
 ### Also
 
-[**calvino**](https://github.com/DOUMBAJC/calvino-framework) — a PHP micro-framework written from scratch: router, query builder, migrations, CLI.
--->
+[**calvino-framework**](https://github.com/DOUMBAJC/calvino-framework) — a PHP framework for JSON APIs, written from scratch: router, models over a query builder, migrations, CLI. Tested with Pest, CI on PHP 8.2 to 8.4.
 
 ---
 
